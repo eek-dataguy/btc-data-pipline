@@ -1,0 +1,4 @@
+{
+    "dbt.dbtPythonPathOverride": "/workspaces/btc-data-pipline/venv/bin/python3",
+    "dbt.perspectiveTheme": "Vintage"
+}
